@@ -95,13 +95,17 @@
 
 ###农广汇###
 
-1.采购信息
+1.特价出售
 
-![](http://i.imgur.com/PXB6Tmg.jpg)
+![](http://i.imgur.com/ZI2ygFd.jpg)
 
 2.工厂资源
 
 ![](http://i.imgur.com/DNioZga.jpg)
+
+3.采购信息
+
+![](http://i.imgur.com/iKCLudK.jpg)
 
 
 
