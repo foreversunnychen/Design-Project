@@ -99,13 +99,41 @@
 
 ![](http://i.imgur.com/ZI2ygFd.jpg)
 
+
 2.工厂资源
 
 ![](http://i.imgur.com/DNioZga.jpg)
 
+
 3.采购信息
 
 ![](http://i.imgur.com/iKCLudK.jpg)
+
+
+4.采购大厅
+![](http://i.imgur.com/AP5sBN7.png)
+
+5.供应大厅
+
+![](http://i.imgur.com/GRsCfLl.jpg)
+
+6.商品详情
+
+![](http://i.imgur.com/vjRV5Q8.jpg)
+
+
+7.查看用户信息
+
+![](http://i.imgur.com/44kjyJo.jpg)
+
+
+更多设计请查看简介上方农广汇文件夹。
+
+
+###信用宝###
+
+
+
 
 
 
