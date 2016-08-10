@@ -47,7 +47,7 @@
 
 ![](http://i.imgur.com/PRZ8Buo.png)
 
-更多设计请查看简介上面校企桥文件夹。
+更多设计请查看简介上方校企桥文件夹。
 
 ###聚小城###
 
@@ -65,14 +65,44 @@
 
 ![](http://i.imgur.com/2BDvaq6.jpg)
 
+
 4.报名人员列表
 
 ![](http://i.imgur.com/UQsM4oh.jpg)
+
 
 5.通友圈
 
 ![](http://i.imgur.com/3VvjDkF.jpg)
 
+
 6.发表动态
 
 ![](http://i.imgur.com/Q7dCf2f.jpg)
+
+
+7.消息列表
+
+![](http://i.imgur.com/xoR14ZL.jpg)
+
+
+8.我的资料
+
+![](http://i.imgur.com/tLto6mM.jpg)
+
+更多设计请查看简介上方聚小城文件夹。
+
+
+###农广汇###
+
+1.采购信息
+
+![](http://i.imgur.com/PXB6Tmg.jpg)
+
+2.工厂资源
+
+![](http://i.imgur.com/DNioZga.jpg)
+
+
+
+

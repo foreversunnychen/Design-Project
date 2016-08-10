@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="head">
+  <div class="head-nov">
+   	<p>全国客服热线：400-699-6060</p>
+    <ul>
+          <li><a href="#">登录</a><span>|</span></li>
+          <li><a href="#">免费注册</a><span>|</span></li>
+          <li><a href="#">我的账户</a><span>|</span></li>
+          <li><a href="#">VIP特权</a><span>|</span></li>
+          <li><a href="#">我要抽奖</a><span>|</span></li>
+          <li><a href="#">积分</a><span>|</span></li>
+          <li><a href="#">商城推荐有礼</a><span>|</span></li>
+      <li class="pig"><a href="#" >猪猪钱罐</a></li>
+        </ul>
+  </div>
+</div>
+<div class="bg">
+    <div class="nov">
+        <p><a href="#"><img src="../img/logo.jpg" width="308" height="55" /></a></p>
+        <ul>
+          <li><a href="#">首页</a><span>|</span></li>
+          <li><a href="#">我要理财</a><span>|</span></li>
+          <li><a href="#">新手专区</a><span>|</span></li>
+          <li><a href="#">我要借款</a><span>|</span></li>
+          <li><a href="#">安全保障</a><span>|</span></li>
+          <li><a href="#">关于我们</a><span>|</span></li>
+          <li class="phone"><a href="#">手机APP</a></li>
+        </ul>
+    </div>
+</div>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<div class="con"></div>
+<div></div>
+<!-- TemplateEndEditable -->
+<div class="foot">
+	<p>
+    	<a href="#"><img src="../img/foot1.jpg" width="42" height="42" /></a><br />
+    	<a href="#"><img src="../img/foot2.jpg" width="42" height="42" /></a><br />
+        <a href="#"><img src="../img/foot3.jpg" width="42" height="42" /></a>
+    </p>
+	<div class="foot-wrap">
+    	<div class="foot-wrapl">
+        	<a href="#">
+                <select name="信用宝联盟伙伴">
+                    <option value="信用宝联盟伙伴">信用宝联盟伙伴</option>
+                    <option value="信用宝联盟伙伴">信农贷</option>
+                    <option value="信用宝联盟伙伴">猪猪钱罐</option>
+                </select>
+            </a>
+        </div>
+      <div class="foot-wrapc">
+      	<ul>
+          <li><a href="#">关于我们</a><span>|</span></li>
+          <li><a href="#">联系我们</a><span>|</span></li> 
+          <li><a href="#">帮助中心</a><span>|</span></li>
+          <li><a href="#">服务协议</a><span>|</span></li>
+          <li><a href="#">信用宝联盟</a></li>
+        </ul>
+        <p><a href="#">©2015-2016 信用宝金融信息服务（北京）有限公司      京ICP备15015561号-2</a></p>
+        <ul>
+        	<li>
+            	<a href="#"><img src="../img/foot4.jpg" width="88" height="34" /></a>
+            	<a href="#"><img src="../img/foot5.jpg" width="88" height="34" /></a>
+                <a href="#"><img src="../img/foot6.jpg" width="88" height="34" /></a>
+                <a href="#"><img src="../img/foot7.jpg" width="88" height="34" /></a>
+            </li>
+        </ul>
+      </div>
+      <div class="foot-wrapr">
+      	<p>
+        全国服务热线<br />
+		<span>400-699-6060</span><br />
+		服务时间（工作日 9:00-18:00）
+        </p>
+        <ul>
+   		  <li><img src="../img/foot8.jpg" width="98" height="99" /></li>
+        </ul>
+     </div>
+    </div>
+</div>
+</body>
+</html>
